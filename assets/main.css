@@ -22,3 +22,11 @@ nav a:hover {
 .page-wrapper p small {
   font-size: 14px;
 }
+/* 
+    1- sol altta herhangi bir yere tiklar
+    2- terminal
+    3- git status (yapilan degisiklik'
+    4- git add . (yapilan degisiklikleri gondermek/kaydetmek)
+    5- git commit -m "update"
+    6- git push origin master 
+*/
