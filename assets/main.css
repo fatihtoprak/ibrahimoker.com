@@ -1,1 +1,24 @@
-nav a{text-decoration:none}nav a:hover{text-decoration:underline}.page-wrapper{line-height:1.7rem}
+body,
+* {
+  font-family: 'Montserrat', sans-serif;
+}
+h1 {
+  font-weight: 700;
+}
+h2,
+h3,
+h4 {
+  font-weight: 600;
+}
+nav a {
+  text-decoration: none;
+}
+nav a:hover {
+  text-decoration: underline;
+}
+.page-wrapper {
+  line-height: 1.7rem;
+}
+.page-wrapper p small {
+  font-size: 14px;
+}
